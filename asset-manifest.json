@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/editor-portifolo/static/css/main.8ca2a70b.css",
+    "main.js": "/editor-portifolo/static/js/main.b09dd477.js",
+    "static/js/453.ed3810f9.chunk.js": "/editor-portifolo/static/js/453.ed3810f9.chunk.js",
+    "static/media/videoplayback (2).mp4": "/editor-portifolo/static/media/videoplayback (2).04feca02b6c2a020dc8a.mp4",
+    "static/media/videoProject3.mp4": "/editor-portifolo/static/media/videoProject3.9296cf93c6d30fb90a98.mp4",
+    "static/media/videoProject4.mp4": "/editor-portifolo/static/media/videoProject4.ec7de391a5471809447e.mp4",
+    "static/media/videoProject.mp4": "/editor-portifolo/static/media/videoProject.6eefe912e4dcc970ef76.mp4",
+    "static/media/1min lightroom tutorial _ Photo Editing.mp4": "/editor-portifolo/static/media/1min lightroom tutorial _ Photo Editing.2040893f00e60df85d37.mp4",
+    "static/media/Orange tutorial in Adobe Illustrator - 1 minute tutorial for beginner.mp4": "/editor-portifolo/static/media/Orange tutorial in Adobe Illustrator - 1 minute tutorial for beginner.9ddce5902be1fc49529f.mp4",
+    "static/media/videoProject2.mp4": "/editor-portifolo/static/media/videoProject2.1c7e8c3bc9008b16be07.mp4",
+    "static/media/videoplayback.mp4": "/editor-portifolo/static/media/videoplayback.cc0b3d1c565d3f1ae6ed.mp4",
+    "index.html": "/editor-portifolo/index.html",
+    "main.8ca2a70b.css.map": "/editor-portifolo/static/css/main.8ca2a70b.css.map",
+    "main.b09dd477.js.map": "/editor-portifolo/static/js/main.b09dd477.js.map",
+    "453.ed3810f9.chunk.js.map": "/editor-portifolo/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ca2a70b.css",
+    "static/js/main.b09dd477.js"
+  ]
+}
